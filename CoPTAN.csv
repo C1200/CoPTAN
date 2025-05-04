@@ -13,3 +13,15 @@ ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,Local
 1010LVT0000B,Lavender Valley Tram Stop,,Platform 2,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1982,87,PLT
 1010LVT0001A,Valiance Depot Tram Stop,,Platform 1,,Station Street,403,Lavender Valley,400,South,,,E,1899,483,PLT
 1010LVT0001B,Valiance Depot Tram Stop,,Platform 2,,Station Street,403,Lavender Valley,400,South,,,W,1899,474,PLT
+9100NBOHEMIA,North Bohemia,,Entrance,Rail Station Entrance,Bardo Road,206,North Bohemia,200,North,,,,2288,-2727,RSE
+1030NBT0000A,North Bohemia Tram Stop,,Platform A,North Bohemia Train Station,Bardo Road,206,North Bohemia,200,North,,,N,2283,-2722,PLT
+1030NBT0000B,North Bohemia Tram Stop,,Platform B,North Bohemia Train Station,Bardo Road,206,North Bohemia,200,North,,,N,2273,-2722,PLT
+1030NBT0001A,Suburbs Tram Stop,,Platform A,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,E,1992,-2909,PLT
+1030NBT0001B,Suburbs Tram Stop,,Platform B,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,E,1992,-2914,PLT
+1030NBT0001C,Suburbs Tram Stop,,Platform C,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,W,1992,-2924,PLT
+1030NBT0002A,Aussig City Tram Stop,,,,,208,Aussig City,206,North Bohemia,200,North,S,1975,-2784,PLT
+9100BREZNO,Brezno Village,,Entrance,Rail Station Entrance,,207,Brezno Village,206,North Bohemia,200,North,,1943,-3059,RSE
+1030NBT0003A,Brezno Village Tram Stop,,,Brezno Village Train Station,,207,Brezno Village,206,North Bohemia,200,North,E,1943,-3059,PLT
+1030NBT0004A,Wawer Tram Stop,,,Wawer Train Station,,205,Wawer,200,North,,,S,2561,-3050,PLT
+1030NBT0005A,Střekov Castle Tram Stop,,,,,206,North Bohemia,200,North,,,N,1502,-2732,PLT
+1030NBT0006A,ČD Depot Tram Stop,,,,,206,North Bohemia,200,North,,,E,1239,-2892,PLT
