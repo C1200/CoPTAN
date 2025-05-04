@@ -1,0 +1,23 @@
+LocalityCode,LocalityName,ParentLocalityCode,ParentLocalityName,ATCOPrefix,PositionX,PositionZ
+100,Global - Public Railway,,,910,,
+200,North,,,,,
+300,North,,,,,
+400,South,,,,,
+500,South,,,,,
+600,East,,,,,
+700,East,,,,,
+800,West,,,,,
+900,West,,,,,
+401,Salzingen,400,South,100,2005,2430
+403,Lavender Valley,400,South,101,2062,164
+404,Novaburg,400,South,101,922,-94
+405,Bärlingen,401,Salzingen,100,1665,1562
+201,Two Cities,200,North,102,2407,-2057
+202,New York City,201,Two Cities,102,2713,-2304
+203,New Glasgow,201,Two Cities,102,2860,-1792
+204,Spawn,200,North,101,2106,-936
+205,Wawer,200,North,103,2492,-3054
+801,Lursin,800,West,104,528,-515
+206,North Bohemia,200,North,103,1940,-2691
+207,Brezno Village,206,North Bohemia,103,1899,-3079
+208,Aussig City,206,North Bohemia,103,2033,-2772
