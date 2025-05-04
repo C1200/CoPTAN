@@ -1,0 +1,15 @@
+ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,LocalityName,ParentLocalityCode,ParentLocalityName,GrandParentLocalityCode,GrandParentLocalityName,Bearing,PositionX,PositionZ,StopType
+9100LAVENDER,Lavender Valley,,Entrance,Rail Station Entrance,Station Street,403,Lavender Valley,400,South,,,,2010,94,RSE
+9100WAWER,Wawer,,Entrance,Rail Station Entrance,,205,Wawer,200,North,,,,2561,-3080,RSE
+91002CITIES,Two Cities Central,,Entrance,Rail Station Entrance,,201,Two Cities,200,North,,,,2345,-2063,RSE
+9100SALZHBF,Salzingen Hbf,,Entrance,Rail Station Entrance,,401,Salzingen,400,South,,,,2043,2432,RSE
+9100SALZNORD,Salzingen Nord,,Entrance,Rail Station Entrance,,401,Salzingen,400,South,,,,1636,2256,RSE
+9100BARLING,Bärlingen,,Entrance,Rail Station Entrance,,405,Bärlingen,401,Salzingen,400,South,,1644,1595,RSE
+9100SPAWN,Spawn,,Entrance,Rail Station Entrance,Eastern Avenue,204,Spawn,200,North,,,,2234,-927,RSE
+9100SOLAINTR,Sola Interchange,,Entrance,Rail Station Entrance,,404,Novaburg,400,South,,,,1076,695,RSE
+9100NOVACTRL,Novaburg Central,,Entrance,Rail Station Entrance,,404,Novaburg,400,South,,,,945,-90,RSE
+9100LURSIN,Lursin,,Entrance,Rail Station Entrance,,801,Lursin,800,West,,,,468,-426,RSE
+1010LVT0000A,Lavender Valley Tram Stop,,Platform 1,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1987,87,PLT
+1010LVT0000B,Lavender Valley Tram Stop,,Platform 2,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1982,87,PLT
+1010LVT0001A,Valiance Depot Tram Stop,,Platform 1,,Station Street,403,Lavender Valley,400,South,,,E,1899,483,PLT
+1010LVT0001B,Valiance Depot Tram Stop,,Platform 2,,Station Street,403,Lavender Valley,400,South,,,W,1899,474,PLT
