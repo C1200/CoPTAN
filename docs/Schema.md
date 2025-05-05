@@ -6,8 +6,8 @@ The database provides the following information:
 - `Indicator` (nullable) - This differentiates stops with the same `CommonName` (adj, o/s, opp, northbound, Bay 1, etc.)
 - `Landmark` (nullable) - Could be used as an alternative to the `CommonName`
 - `Street` (nullable) - Street name
-- `LocalityCode` - Primary Locality (town/city/village) ID 
-- `LocalityName` - Primary Locality Name
+- `LocalityCode` (nullable, but shouldn't be) - Primary Locality (town/city/village) ID 
+- `LocalityName` (nullable, but shouldn't be) - Primary Locality Name
 - `ParentLocalityCode` (nullable)
 - `ParentLocalityName` (nullable)
 - `GrandParentLocalityCode` (nullable)
@@ -33,4 +33,5 @@ More may be acceptable
 
 ## Stop Types
 - `RSE` - Rail Station Entrance
+- `RLY` - Railway station
 - `PLT` - Underground/Metro/Tram platform

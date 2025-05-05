@@ -1,15 +1,17 @@
 # Providing Data
 
+If you're interested: look into the documents related to NaPTAN, as this dataset is based on that. If information supplied here is incorrect, please correct me and provide your information in the correct way.
+
 Please make sure to specify what type of stop/station you are providing. You may provide multiple stops of the same type in one issue.
 
 ## For Public Railways
 
-Create an issue with the following information:
-- an `ATCOCode` (optional) - must start with `9100` and can end with up to 8 capitalised alphanumeric characters
-- a `CommonName` - just the station's name (no Rail/Train Station suffixes please)
-- a `Street` - what street is the main entrance on?
-- a `LocalityName` hierarchy - what town, city, district, cardinal direction is it part of?
-- `PositionX` and `PositionZ` - what is the position of the main entrance?
+The main `9100` prefixed entries are provided somewhat automatically. Should there be an issue, please notify me through the issues tab.
+
+However, you may provide extra location information for (larger) stations. For this, you will need to open an issue with the following information:
+- an `ATCOCode` - must start with your local ATCOPrefix (not `910`), followed with a `0`, followed by the station's up to 7 digit code (found in the `910` prefixed code), followed with a number `0`-`9` (`0` being the primary entrance/concourse/etc.)
+- an `Indicator` - what does the coordinates point to? E.g. `Main Entrance`
+- `PositionX` and `PositionZ` - what is the position?
 
 ## For Bus & Tram
 
