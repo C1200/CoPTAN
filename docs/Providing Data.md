@@ -1,34 +1,62 @@
 # Providing Data
 
-If you're interested: look into the documents related to NaPTAN, as this dataset is based on that. If information supplied here is incorrect, please correct me and provide your information in the correct way.
+Explanations for some fields may be omitted. If editing the CSV file yourself,
+please check what should go in the omitted fields before submitting a pull
+request.
 
-Please make sure to specify what type of stop/station you are providing. You may provide multiple stops of the same type in one issue.
+## Bus
 
-## For Public Railways
+There should be one entry per physical bus stop:
 
-The main `9100` prefixed entries are provided somewhat automatically. Should there be an issue, please notify me through the issues tab.
+- If there's two bus stops close together, one for each direction: submit them
+  individually
+- If there's a line of bus stops all for one direction: submit them individually
+- If there's a bus station which has multiple bays: submit each bay individually
 
-However, you may provide extra location information for (larger) stations. For this, you will need to open an issue with the following information:
-- an `ATCOCode` - must start with your local ATCOPrefix (not `910`), followed with a `0`, followed by the station's up to 7 digit code (found in the `910` prefixed code), followed with a number `0`-`9` (`0` being the primary entrance/concourse/etc.)
-- an `Indicator` - what does the coordinates point to? E.g. `Main Entrance`
-- `PositionX` and `PositionZ` - what is the position?
+You'll need to provide the following data for each stop:
 
-## For Bus & Tram
+- an `ATCOCode`, see [Making an ATCOCode](Making%20an%20ATCOCode.md#bus)
+- a `CommonName`, usually the name of:
+  - a nearby street
+  - a nearby landmark or other place of interest
+  - *other's are acceptable*
+- an `Indicator` if there are multiple stops in the same area with the same
+  name. See [Schema#Indicators](Schema.md#indicators) for examples
+- a `Landmark` if there's a nearby place of interest like a railway station
+- the `Street`, the name of the street the stop is actually on, should be given
+  in the unabbreviated form
+- the `LocalityCode`, found in CPTG
+- the `PositionX` and `PositionZ`
 
-> Important: an entry should be made for every single:
-> - Bus stop
-> - Bus station bay
-> - Tram platform
->
-> No grouping of Bus & Tram access nodes is permitted
+## Public Railways
 
-Create an issue with the following information:
-- an `ATCOCode` (optional) - must start with your local ATCOPrefix, followed by a `0`, followed by up to 8 capitalised alphanumeric characters (if not sure of your prefix, do not provide an ATCOCode)
-- a `CommonName`
-  - for tram: suffix with `Tram Stop`
-  - for bus: usually the name of the adj/opp street
-- a `Street` - what street is the stop on?
-- a `LocalityName` hierarchy - what town, city, district, cardinal direction is it part of?
-- an `Indicator` (optional) - what is the direction of travel?
-- `PositionX` and `PositionZ` - what is the position of the stop?
-- a `StopType` - look into NaPTAN stop types, or just provide one in plain english
+Data which populates the 910 ATCO prefix is semi-automatically provided.
+Therefore, it should not be manually edited or added.
+
+Rail station entrances may be manually added. The following information is
+needed:
+- an `ATCOCode`, see [Making an ATCOCode](Making%20an%20ATCOCode.md#public-railways)
+- a `CommonName`, the same common name as the main entry
+- an `Indicator` for example: Main Entrance
+- the `Street` the entrance is on
+- the `PositionX` and `PositionZ`
+
+## Trams and Other Metro Systems
+
+One entry must be provided per platform (with StopType = PLT) and one more entry
+must be provided (with StopType = MET) to group everything together. On top of
+this entrances (with StopType = TMU) can optionally be provided.
+
+For METs:
+- an `ATCOCode`, see [Making an ATCOCode](Making%20an%20ATCOCode.md#trams-and-other-metro-systems)
+- a `CommonName`, usually the name of:
+  - a nearby street
+  - a nearby landmark or other place of interest
+  - *other's are acceptable*
+- a `Landmark` if there's a nearby place of interest like a railway station
+- the `Street`, the name of the street the stop is actually on, should be given
+  in the unabbreviated form
+- the `LocalityCode`, found in CPTG
+- the `PositionX` and `PositionZ`
+
+For PLTs and TMUs: follow the guidance on entrances for [Public Railways](#public-railways)

@@ -1,12 +1,14 @@
 # Schema
+
 The database provides the following information:
+
 - `ATCOCode` - The unique alphanumeric code for a stop
 - `CommonName` - The name of the stop
 - `ShortCommonName` (nullable) - The shortened name of a stop
 - `Indicator` (nullable) - This differentiates stops with the same `CommonName` (adj, o/s, opp, northbound, Bay 1, etc.)
 - `Landmark` (nullable) - Could be used as an alternative to the `CommonName`
 - `Street` (nullable) - Street name
-- `LocalityCode` (nullable, but shouldn't be) - Primary Locality (town/city/village) ID 
+- `LocalityCode` (nullable, but shouldn't be) - Primary Locality (town/city/village) ID
 - `LocalityName` (nullable, but shouldn't be) - Primary Locality Name
 - `ParentLocalityCode` (nullable)
 - `ParentLocalityName` (nullable)
@@ -18,6 +20,7 @@ The database provides the following information:
 - `StopType` - Stop Type
 
 ## Indicators
+
 - `adj` - adjacent
 - `o/s` - outside
 - `opp` - opposite
@@ -28,10 +31,18 @@ The database provides the following information:
 More may be acceptable
 
 ## Bearings
+
 - Cardinal: `N`, `S`, `E`, `W`
 - Intercardinal: `NE`, `SE`, `SW`, `NW`
 
 ## Stop Types
-- `RSE` - Rail Station Entrance
-- `RLY` - Railway station
-- `PLT` - Underground/Metro/Tram platform
+
+| Stop Type | Description                             | Global Prefix | Grouping Entry |
+| --------- | --------------------------------------- | ------------- | -------------- |
+| BCT       | Bus/Coach/Trolleybus stop               | -             | No             |
+| RSE       | Rail Station Entrance                   | -             | No             |
+| RLY       | Railway Interchange Area                | 910           | Yes            |
+| RPL       | Railway Platform                        | 910           | No             |
+| TMU       | Tram/Metro/Underground Entrance         | -             | No             |
+| MET       | Tram/Metro/Underground Interchange Area | 940           | Yes            |
+| PLT       | Tram/Metro/Underground Platform         | 940           | No             |
