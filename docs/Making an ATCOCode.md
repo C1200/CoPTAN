@@ -31,7 +31,7 @@ An ATCOCode should be comprised of:
 - The ATCO prefix, either:
   - For TMUs: your local prefix, you'll find this in the CPTG database. If it
     isn't there, contact me.
-  - For METs and PLTs: the 910 global prefix
+  - For METs and PLTs: the 940 global prefix
 - The literal character: `0`
 - 4 uppercase alphanumeric characters to signify the system
 - 3 uppercase alphanumeric characters to signify the specific stop/station
