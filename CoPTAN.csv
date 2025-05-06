@@ -1,7 +1,7 @@
 ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,LocalityName,ParentLocalityCode,ParentLocalityName,GrandParentLocalityCode,GrandParentLocalityName,Bearing,PositionX,PositionZ,StopType
 9100LAVENDR,Lavender Valley Rail Station,,,,Station Street,403,Lavender Valley,400,South,,,,1997,109,RLY
 9100WAWER,Wawer Rail Station,,,,,205,Wawer,200,North,,,,2586,-3064,RLY
-91002CITIES,Two Cities Central Rail Station,,,,,201,Two Cities,200,North,,,,2386,-2080,RLY
+91002CITIES,Two Cities Central Rail Station,2CC,,,Station Street,201,Two Cities,200,North,,,,2386,-2080,RLY
 9100SALZHBF,Salzingen Hbf Rail Station,,,,Willy-Brandt Street,401,Salzingen,400,South,,,,2065,2398,RLY
 9100SALZNRD,Salzingen Nord Rail Station,,,,,401,Salzingen,400,South,,,,1569,2197,RLY
 9100BARLING,Bärlingen Rail Station,,,,,405,Bärlingen,401,Salzingen,400,South,,1632,1584,RLY
