@@ -9,34 +9,34 @@ ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,Local
 9100SOLAINT,Sola Interchange Rail Station,,,,,404,Novaburg,400,South,,,,1057,696,RLY
 9100NOVACTR,Novaburg Central Rail Station,,,,,404,Novaburg,400,South,,,,967,-118,RLY
 9100LURSIN,Lursin Rail Station,,,,,801,Lursin,800,West,,,,397,-444,RLY
-1010LVT0000A,Lavender Valley Tram Stop,,Platform 1,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1987,87,PLT
-1010LVT0000B,Lavender Valley Tram Stop,,Platform 2,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1982,87,PLT
-1010LVT0001A,Valiance Depot Tram Stop,,Platform 1,,Station Street,403,Lavender Valley,400,South,,,E,1899,483,PLT
-1010LVT0001B,Valiance Depot Tram Stop,,Platform 2,,Station Street,403,Lavender Valley,400,South,,,W,1899,474,PLT
+9400LAVTLAV1,Lavender Valley Tram Stop,,Platform 1,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1987,87,PLT
+9400LAVTLAV2,Lavender Valley Tram Stop,,Platform 2,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1982,87,PLT
+9400LAVTVAL1,Valiance Depot Tram Stop,,Platform 1,,Station Street,403,Lavender Valley,400,South,,,E,1899,483,PLT
+9400LAVTVAL2,Valiance Depot Tram Stop,,Platform 2,,Station Street,403,Lavender Valley,400,South,,,W,1899,474,PLT
 9100NBHEMIA,North Bohemia Rail Station,,,,Bardo Road,206,North Bohemia,200,North,,,,2308,-2678,RLY
-1030NBT0000A,North Bohemia Tram Stop,,Platform A,North Bohemia Train Station,Bardo Road,206,North Bohemia,200,North,,,N,2283,-2722,PLT
-1030NBT0000B,North Bohemia Tram Stop,,Platform B,North Bohemia Train Station,Bardo Road,206,North Bohemia,200,North,,,N,2273,-2722,PLT
-1030NBT0001A,Suburbs Tram Stop,,Platform A,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,E,1992,-2909,PLT
-1030NBT0001B,Suburbs Tram Stop,,Platform B,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,E,1992,-2914,PLT
-1030NBT0001C,Suburbs Tram Stop,,Platform C,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,W,1992,-2924,PLT
-1030NBT0002A,Aussig City Tram Stop,,,,,208,Aussig City,206,North Bohemia,200,North,S,1975,-2784,PLT
+9400NBHTNBH1,North Bohemia Tram Stop,,Platform A,North Bohemia Train Station,Bardo Road,206,North Bohemia,200,North,,,N,2283,-2722,PLT
+9400NBHTNBH2,North Bohemia Tram Stop,,Platform B,North Bohemia Train Station,Bardo Road,206,North Bohemia,200,North,,,N,2273,-2722,PLT
+9400NBHTSUB1,Suburbs Tram Stop,,Platform A,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,E,1992,-2909,PLT
+9400NBHTSUB2,Suburbs Tram Stop,,Platform B,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,E,1992,-2914,PLT
+9400NBHTSUB3,Suburbs Tram Stop,,Platform C,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,W,1992,-2924,PLT
+9400NBHTAUS1,Aussig City Tram Stop,,,,,208,Aussig City,206,North Bohemia,200,North,S,1975,-2784,PLT
 9100BREZNO,Brezno Rail Station,,,,,207,Brezno Village,206,North Bohemia,200,North,,1949,-3080,RLY
-1030NBT0003A,Brezno Village Tram Stop,,,Brezno Village Train Station,,207,Brezno Village,206,North Bohemia,200,North,E,1943,-3059,PLT
-1030NBT0004A,Wawer Tram Stop,,,Wawer Train Station,,205,Wawer,200,North,,,S,2561,-3050,PLT
-1030NBT0005A,Střekov Castle Tram Stop,,,,,206,North Bohemia,200,North,,,N,1502,-2732,PLT
-1030NBT0006A,ČD Depot Tram Stop,,,,,206,North Bohemia,200,North,,,E,1239,-2892,PLT
-1000SVB0000A,Salzingen Hbf Tram Stop,,Platform 1,Salzingen Hbf Train Station,Willy-Brandt Street,401,Salzingen,400,South,,,W,2043,2445,PLT
-1000SVB0000B,Salzingen Hbf Tram Stop,,Platform 2,Salzingen Hbf Train Station,Willy-Brandt Street,401,Salzingen,400,South,,,E,2043,2457,PLT
-1000SVB0000C,Salzingen Hbf Tram Stop,,Platform 3,Salzingen Hbf Train Station,Willy-Brandt Street,401,Salzingen,400,South,,,W,2043,2461,PLT
-1000SVB0000D,Salzingen Hbf Tram Stop,,Platform 4,Salzingen Hbf Train Station,Willy-Brandt Street,401,Salzingen,400,South,,,E,2043,2473,PLT
-1000SVB0001A,Karl Liebknecht Str. Tram Stop,,Platform 1,,Karl Liebknecht Street,401,Salzingen,400,South,,,S,2351,2196,PLT
-1000SVB0001B,Karl Liebknecht Str. Tram Stop,,Platform 2,,Karl Liebknecht Street,401,Salzingen,400,South,,,N,2363,2196,PLT
-1000SVB0002A,Plagwitz Post Tram Stop,,Platform 1,,Karl Liebknecht Street,401,Salzingen,400,South,,,W,2472,2049,PLT
-1000SVB0002B,Plagwitz Post Tram Stop,,Platform 2,,Karl Liebknecht Street,401,Salzingen,400,South,,,E,2472,2060,PLT
-1000SVB0003A,Plagwitz Depot Tram Stop,,,,Karl Liebknecht Street,401,Salzingen,400,South,,,N,2534,2307,PLT
-1000SVB0004A,Westplatz Tram Stop,,Platform 1,,,401,Salzingen,400,South,,,W,1690,2483,PLT
-1000SVB0004B,Westplatz Tram Stop,,Platform 2,,,401,Salzingen,400,South,,,E,1690,2493,PLT
-1000SVB0005A,Silberstrombrücke Tram Stop,,,,,401,Salzingen,400,South,,,NW,1525,2424,PLT
+9400NBHTBRE1,Brezno Village Tram Stop,,,Brezno Village Train Station,,207,Brezno Village,206,North Bohemia,200,North,E,1943,-3059,PLT
+9400NBHTWAW1,Wawer Tram Stop,,,Wawer Train Station,,205,Wawer,200,North,,,S,2561,-3050,PLT
+9400NBHTSKC1,Střekov Castle Tram Stop,,,,,206,North Bohemia,200,North,,,N,1502,-2732,PLT
+9400NBHTCDD1,ČD Depot Tram Stop,,,,,206,North Bohemia,200,North,,,E,1239,-2892,PLT
+9400SALZHBF1,Salzingen Hbf Tram Stop,,Platform 1,Salzingen Hbf Train Station,Willy-Brandt Street,401,Salzingen,400,South,,,W,2043,2445,PLT
+9400SALZHBF2,Salzingen Hbf Tram Stop,,Platform 2,Salzingen Hbf Train Station,Willy-Brandt Street,401,Salzingen,400,South,,,E,2043,2457,PLT
+9400SALZHBF3,Salzingen Hbf Tram Stop,,Platform 3,Salzingen Hbf Train Station,Willy-Brandt Street,401,Salzingen,400,South,,,W,2043,2461,PLT
+9400SALZHBF4,Salzingen Hbf Tram Stop,,Platform 4,Salzingen Hbf Train Station,Willy-Brandt Street,401,Salzingen,400,South,,,E,2043,2473,PLT
+9400SALZKAR1,Karl Liebknecht Str. Tram Stop,,Platform 1,,Karl Liebknecht Street,401,Salzingen,400,South,,,S,2351,2196,PLT
+9400SALZKAR2,Karl Liebknecht Str. Tram Stop,,Platform 2,,Karl Liebknecht Street,401,Salzingen,400,South,,,N,2363,2196,PLT
+9400SALZPLP1,Plagwitz Post Tram Stop,,Platform 1,,Karl Liebknecht Street,401,Salzingen,400,South,,,W,2472,2049,PLT
+9400SALZPLP2,Plagwitz Post Tram Stop,,Platform 2,,Karl Liebknecht Street,401,Salzingen,400,South,,,E,2472,2060,PLT
+9400SALZPLD1,Plagwitz Depot Tram Stop,,,,Karl Liebknecht Street,401,Salzingen,400,South,,,N,2534,2307,PLT
+9400SALZWPL1,Westplatz Tram Stop,,Platform 1,,,401,Salzingen,400,South,,,W,1690,2483,PLT
+9400SALZWPL2,Westplatz Tram Stop,,Platform 2,,,401,Salzingen,400,South,,,E,1690,2493,PLT
+9400SALZSSB1,Silberstrombrücke Tram Stop,,,,,401,Salzingen,400,South,,,NW,1525,2424,PLT
 9100SLVRFLL,Silverfall Rail Station,,,,,802,Silverfall,800,West,,,,42,-1179,RLY
 9100MLTNWKS,Molten Works Rail Station,,,,,802,Silverfall,800,West,,,,-627,-1294,RLY
 9100IVRYBCH,Ivory Beach Rail Station,,,,,802,Silverfall,800,West,,,,-1003,-1562,RLY
@@ -66,3 +66,18 @@ ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,Local
 9100RSTAT,r.station Rail Station,,,,,,,,,,,,915,-1148,RLY
 9100FARYFLD,Fairyfield Rail Station,,,,,,,,,,,,-1253,-1145,RLY
 9100HROSHMA,Hiroshima Rail Station,,,,,,,,,,,,3488,-452,RLY
+9400LAVTLAV,Lavender Valley Tram Stop,,Platform 1,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,,1987,87,MET
+9400LAVTVAL,Valiance Depot Tram Stop,,Platform 1,,Station Street,403,Lavender Valley,400,South,,,,1899,483,MET
+9400NBHTNBH,North Bohemia Tram Stop,,Platform A,North Bohemia Train Station,Bardo Road,206,North Bohemia,200,North,,,,2283,-2722,MET
+9400NBHTSUB,Suburbs Tram Stop,,Platform A,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,,1992,-2909,MET
+9400NBHTAUS,Aussig City Tram Stop,,,,,208,Aussig City,206,North Bohemia,200,North,,1975,-2784,MET
+9400NBHTBRE,Brezno Village Tram Stop,,,Brezno Village Train Station,,207,Brezno Village,206,North Bohemia,200,North,,1943,-3059,MET
+9400NBHTWAW,Wawer Tram Stop,,,Wawer Train Station,,205,Wawer,200,North,,,,2561,-3050,MET
+9400NBHTSKC,Střekov Castle Tram Stop,,,,,206,North Bohemia,200,North,,,,1502,-2732,MET
+9400NBHTCDD,ČD Depot Tram Stop,,,,,206,North Bohemia,200,North,,,,1239,-2892,MET
+9400SALZHBF,Salzingen Hbf Tram Stop,,Platform 1,Salzingen Hbf Train Station,Willy-Brandt Street,401,Salzingen,400,South,,,,2043,2445,MET
+9400SALZKAR,Karl Liebknecht Str. Tram Stop,,Platform 1,,Karl Liebknecht Street,401,Salzingen,400,South,,,,2351,2196,MET
+9400SALZPLP,Plagwitz Post Tram Stop,,Platform 1,,Karl Liebknecht Street,401,Salzingen,400,South,,,,2472,2049,MET
+9400SALZPLD,Plagwitz Depot Tram Stop,,,,Karl Liebknecht Street,401,Salzingen,400,South,,,,2534,2307,MET
+9400SALZWPL,Westplatz Tram Stop,,Platform 1,,,401,Salzingen,400,South,,,,1690,2483,MET
+9400SALZSSB,Silberstrombrücke Tram Stop,,,,,401,Salzingen,400,South,,,,1525,2424,MET
