@@ -81,3 +81,12 @@ ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,Local
 9400SALZPLD,Plagwitz Depot Tram Stop,,,,Karl Liebknecht Street,401,Salzingen,400,South,,,,2534,2307,MET
 9400SALZWPL,Westplatz Tram Stop,,Platform 1,,,401,Salzingen,400,South,,,,1690,2483,MET
 9400SALZSSB,Silberstrombrücke Tram Stop,,,,,401,Salzingen,400,South,,,,1525,2424,MET
+1020NYC0001N,Liam Road,,Northbound,Two Cities Central,Station Street,202,New York City,201,Two Cities,200,North,N,2342,-2106,BCT
+1020NYC0001S,Liam Road,,Southbound,Two Cities Central,Station Street,202,New York City,201,Two Cities,200,North,S,2304,-2104,BCT
+1020NYC0002N,Queens Boulevard,,Northbound,,Station Street,202,New York City,201,Two Cities,200,North,N,2342,-2273,BCT
+1020NYC0002S,Queens Boulevard,,Southbound,,Station Street,202,New York City,201,Two Cities,200,North,S,2304,-2246,BCT
+1020NYC0003N,North Bohemia Station,,Northbound,North Bohemia Rail Station,Bardo Road,206,North Bohemia,200,North,,,N,2234,-2756,BCT
+1020NYC0003S,North Bohemia Station,,Southbound,North Bohemia Rail Station,Bardo Road,206,North Bohemia,200,North,,,S,2224,-2738,BCT
+1020NYC0004N,Golden Street,,Northbound,,Masaryk Road,206,North Bohemia,200,North,,,N,2127,-2865,BCT
+1020NYC0004S,Golden Street,,Southbound,,Masaryk Road,206,North Bohemia,200,North,,,S,2142,-2855,BCT
+1020NYC0005B,Suburbs Tram Stop,,,Suburbs Tram Stop,Masaryk Road,206,North Bohemia,200,North,,,,2004,-2904,BCT
