@@ -70,8 +70,8 @@ ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,Local
 1020NYCTBUS0001S,Station St / Liam Rd,,Southbound,Two Cities Central,Station St,202,New York City,201,Two Cities,200,North,S,2304,-2104,MCT
 1020NYCTBUS0002N,Station St / Queens Blvd,,Northbound,,Station St,202,New York City,201,Two Cities,200,North,N,2342,-2273,MCT
 1020NYCTBUS0002S,Station St / Queens Blvd,,Southbound,,Station St,202,New York City,201,Two Cities,200,North,S,2304,-2246,MCT
-1020NYCTBUS0003N,Bardo Rd / North Bohemia Station,,Northbound,North Bohemia Rail Station,Bardo Rd,206,North Bohemia,200,North,,,,N,2234,-2756,MCT
-1020NYCTBUS0003S,Bardo Rd / North Bohemia Station,,Southbound,North Bohemia Rail Station,Bardo Rd,206,North Bohemia,200,North,,,,S,2224,-2738,MCT
-1020NYCTBUS0004N,Masaryk Rd / Golden St,,Northbound,,Masaryk Rd,206,North Bohemia,200,North,,,,N,2127,-2865,MCT
-1020NYCTBUS0004S,Masaryk Rd / Golden St,,Southbound,,Masaryk Rd,206,North Bohemia,200,North,,,,S,2142,-2855,MCT
-1020NYCTBUS0005B,Masaryk Rd / Suburbs Tram Stop,,Both directions,Suburbs Tram Stop,Masaryk Rd,206,North Bohemia,200,North,,,,B,2004,-2904,MCT
+1020NYCTBUS0003N,Bardo Rd / North Bohemia Station,,Northbound,North Bohemia Rail Station,Bardo Rd,206,North Bohemia,200,North,,,N,2234,-2756,MCT
+1020NYCTBUS0003S,Bardo Rd / North Bohemia Station,,Southbound,North Bohemia Rail Station,Bardo Rd,206,North Bohemia,200,North,,,S,2224,-2738,MCT
+1020NYCTBUS0004N,Masaryk Rd / Golden St,,Northbound,,Masaryk Rd,206,North Bohemia,200,North,,,N,2127,-2865,MCT
+1020NYCTBUS0004S,Masaryk Rd / Golden St,,Southbound,,Masaryk Rd,206,North Bohemia,200,North,,,S,2142,-2855,MCT
+1020NYCTBUS0005B,Masaryk Rd / Suburbs Tram Stop,,Both directions,Suburbs Tram Stop,Masaryk Rd,206,North Bohemia,200,North,,,B,2004,-2904,MCT
