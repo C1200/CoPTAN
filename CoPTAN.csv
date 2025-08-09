@@ -1,26 +1,26 @@
 ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,LocalityName,ParentLocalityCode,ParentLocalityName,GrandParentLocalityCode,GrandParentLocalityName,Bearing,PositionX,PositionZ,StopType
-9100LAVENDR,Lavender Valley Rail Station,,,,Station Street,403,Lavender Valley,400,South,,,,1997,109,RLY
-9100WAWER,Wawer Rail Station,,,,,205,Wawer,200,North,,,,2586,-3064,RLY
-91002CITIES,Two Cities Central Rail Station,2CC,,,Station Street,201,Two Cities,200,North,,,,2386,-2080,RLY
-9100SALZHBF,Salzingen Hbf Rail Station,,,,Willy-Brandt Street,401,Salzingen,400,South,,,,2065,2398,RLY
-9100SALZNRD,Salzingen Nord Rail Station,,,,,401,Salzingen,400,South,,,,1569,2197,RLY
-9100BARLING,Bärlingen Rail Station,,,,,405,Bärlingen,401,Salzingen,400,South,,1632,1584,RLY
-9100SPAWN,Spawn Rail Station,,,,Eastern Avenue,204,Spawn,200,North,,,,2278,-971,RLY
-9100SOLAINT,Sola Interchange Rail Station,,,,,404,Novaburg,400,South,,,,1057,696,RLY
-9100NOVACTR,Novaburg Central Rail Station,,,,,404,Novaburg,400,South,,,,967,-118,RLY
+9100LAVENDR,Lavender Valley Rail Station,,,,Station Street,403,Lavender Valley,400,South,,,,2000.5,119,RLY
+9100WAWER,Wawer Rail Station,,,,,205,Wawer,200,North,,,,2586.46666666667,-3067.7,RLY
+91002CITIES,Two Cities Central Rail Station,2CC,,,,201,Two Cities,200,North,,,,2402.875,-2082.5,RLY
+9100SALZHBF,Salzingen Hbf Rail Station,,,,Willy-Brandt Street,401,Salzingen,400,South,,,,2086.17741935484,2406.56451612903,RLY
+9100SALZNRD,Salzingen Nord Rail Station,,,,,401,Salzingen,400,South,,,,1601.875,2264.125,RLY
+9100BARLING,Bärlingen Rail Station,,,,,405,Bärlingen,401,Salzingen,400,South,,1631.5,1583.5,RLY
+9100SPAWN,Spawn Rail Station,,,,Eastern Avenue,204,Spawn,200,North,,,,2282.16666666667,-1019.36111111111,RLY
+9100SOLAINT,Sola Interchange Rail Station,,,,,404,Novaburg,400,South,,,,1056,695.5,RLY
+9100NOVACTR,Novaburg Central Rail Station,,,,,404,Novaburg,400,South,,,,967.5,-98.5,RLY
 9100LURSIN,Lursin Rail Station,,,,,801,Lursin,800,West,,,,397,-444,RLY
-9400LAVTLAV1,Lavender Valley Tram Stop,,Platform 1,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1987,87,PLT
-9400LAVTLAV2,Lavender Valley Tram Stop,,Platform 2,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1982,87,PLT
-9400LAVTVAL1,Valiance Depot Tram Stop,,Platform 1,,Station Street,403,Lavender Valley,400,South,,,E,1899,483,PLT
-9400LAVTVAL2,Valiance Depot Tram Stop,,Platform 2,,Station Street,403,Lavender Valley,400,South,,,W,1899,474,PLT
-9100NBHEMIA,North Bohemia Rail Station,,,,Bardo Road,206,North Bohemia,200,North,,,,2308,-2678,RLY
+9400LAVTLAV1,Lavender Valley Tram Stop,,Platform 1,Lavender Valley Train Station,Sola Road,403,Lavender Valley,400,South,,,S,1987,87,PLT
+9400LAVTLAV2,Lavender Valley Tram Stop,,Platform 2,Lavender Valley Train Station,Sola Road,403,Lavender Valley,400,South,,,S,1982,87,PLT
+9400LAVTVAL1,Valiance Depot Tram Stop,,Platform 1,,Sola Road,403,Lavender Valley,400,South,,,E,1899,483,PLT
+9400LAVTVAL2,Valiance Depot Tram Stop,,Platform 2,,Sola Road,403,Lavender Valley,400,South,,,W,1899,474,PLT
+9100NBHEMIA,North Bohemia Rail Station,,,,Bardo Road,206,North Bohemia,200,North,,,,2307.5,-2678.5,RLY
 9400NBHTNBH1,North Bohemia Tram Stop,,Platform A,North Bohemia Train Station,Bardo Road,206,North Bohemia,200,North,,,N,2283,-2722,PLT
 9400NBHTNBH2,North Bohemia Tram Stop,,Platform B,North Bohemia Train Station,Bardo Road,206,North Bohemia,200,North,,,N,2273,-2722,PLT
 9400NBHTSUB1,Suburbs Tram Stop,,Platform A,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,E,1992,-2909,PLT
 9400NBHTSUB2,Suburbs Tram Stop,,Platform B,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,E,1992,-2914,PLT
 9400NBHTSUB3,Suburbs Tram Stop,,Platform C,,Masaryk's Road,208,Aussig City,206,North Bohemia,200,North,W,1992,-2924,PLT
 9400NBHTAUS1,Aussig City Tram Stop,,,,,208,Aussig City,206,North Bohemia,200,North,S,1975,-2784,PLT
-9100BREZNO,Brezno Rail Station,,,,,207,Brezno Village,206,North Bohemia,200,North,,1949,-3080,RLY
+9100BREZNO,Brezno Rail Station,,,,,207,Brezno Village,206,North Bohemia,200,North,,1948,-3080.5,RLY
 9400NBHTBRE1,Brezno Village Tram Stop,,,Brezno Village Train Station,,207,Brezno Village,206,North Bohemia,200,North,E,1943,-3059,PLT
 9400NBHTWAW1,Wawer Tram Stop,,,Wawer Train Station,,205,Wawer,200,North,,,S,2561,-3050,PLT
 9400NBHTSKC1,Střekov Castle Tram Stop,,,,,206,North Bohemia,200,North,,,N,1502,-2732,PLT
@@ -37,35 +37,35 @@ ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,Local
 9400SALZWPL1,Westplatz Tram Stop,,Platform 1,,,401,Salzingen,400,South,,,W,1690,2483,PLT
 9400SALZWPL2,Westplatz Tram Stop,,Platform 2,,,401,Salzingen,400,South,,,E,1690,2493,PLT
 9400SALZSSB1,Silberstrombrücke Tram Stop,,,,,401,Salzingen,400,South,,,NW,1525,2424,PLT
-9100SLVRFLL,Silverfall Rail Station,,,,,802,Silverfall,800,West,,,,42,-1179,RLY
-9100MLTNWKS,Molten Works Rail Station,,,,,802,Silverfall,800,West,,,,-627,-1294,RLY
-9100IVRYBCH,Ivory Beach Rail Station,,,,,802,Silverfall,800,West,,,,-1003,-1562,RLY
-9100TEMIHBF,Temischoara Hbf Rail Station,,,,,,,,,,,,7345,-10342,RLY
-9100RVRSCTR,Riverside Central Rail Station,,,,,,,,,,,,1695,-1006,RLY
-9100HOHNRED,Hohenried Rail Station,,,,,,,,,,,,1136,2845,RLY
-9100PRIPYAT,Pripyat Rail Station,,,,,,,,,,,,-1354,-2185,RLY
-9100CANDENS,Candenset South Rail Station,,,,,,,,,,,,1526,-2087,RLY
-9100STHILLS,South Hills Rail Station,,,,,,,,,,,,286,148,RLY
-9100BRGSTTN,Bergstetten Rail Station,,,,,,,,,,,,4467,585,RLY
-9100ECHNBRG,Eichenberg Rail Station,,,,,,,,,,,,2207,4818,RLY
-9100HIPPOST,Hippostetten Rail Station,,,,,,,,,,,,1644,6082,RLY
-9100LUZERNW,Luzernthal West Rail Station,,,,,,,,,,,,2710,8336,RLY
-9100SZOLNOK,Szolnok Rail Station,,,,,,,,,,,,400,-1790,RLY
+9100SLVRFLL,Silverfall Rail Station,,,,,802,Silverfall,800,West,,,,9.07142857142857,-1170.71428571429,RLY
+9100MLTNWKS,Molten Works Rail Station,,,,,802,Silverfall,800,West,,,,-627.5,-1294.25,RLY
+9100IVRYBCH,Ivory Beach Rail Station,,,,,802,Silverfall,800,West,,,,-1003.5,-1562.5,RLY
+9100TEMIHBF,Temischoara Hbf Rail Station,,,,,,,,,,,,7344,-10342,RLY
+9100RVRSCTR,Riverside Central Rail Station,,,,,,,,,,,,1694,-1005,RLY
+9100HOHNRED,Hohenried Rail Station,,,,,,,,,,,,1135.75,2830.5,RLY
+9100PRIPYAT,Pripyat Rail Station,,,,,,,,,,,,-1354,-2126.5,RLY
+9100CANDENS,Candenset South Rail Station,,,,,,,,,,,,1525,-2087,RLY
+9100STHILLS,South Hills Rail Station,,,,,,,,,,,,285.5,152,RLY
+9100BRGSTTN,Bergstetten Rail Station,,,,,,,,,,,,4466.5,584.5,RLY
+9100ECHNBRG,Eichenberg Rail Station,,,,,,,,,,,,2206.5,4817,RLY
+9100HIPPOST,Hippostetten Rail Station,,,,,,,,,,,,1643,6094.5,RLY
+9100LUZERNW,Luzernthal West Rail Station,,,,,,,,,,,,2703.33333333333,8324,RLY
+9100SZOLNOK,Szolnok Rail Station,,,,,,,,,,,,399.5,-1790,RLY
 9100SLVRAQA,Silver Aquarium Rail Station,,,,,,,,,,,,-452,-1010,RLY
 9100CANDENW,Candenset West Rail Station,,,,,,,,,,,,991,-2240,RLY
-9100OCHTRUP,Ochtrup Rail Station,,,,,,,,,,,,2366,3760,RLY
-9100KOTHAUS,Kothausen Rail Station,,,,,,,,,,,,1288,-1158,RLY
-9100CANDENC,Candenset Central Rail Station,,,,,,,,,,,,1311,-2348,RLY
-9100WISENAU,Wiesenau Rail Station,,,,,,,,,,,,2211,3259,RLY
-9100ECHNWLD,Eichenwalde Rail Station,,,,,,,,,,,,4467,1919,RLY
-9100MTNVILL,Mountain Village Rail Station,,,,,,,,,,,,185,-341,RLY
-9100ELMSWLD,Elmswalde Hbf Rail Station,,,,,,,,,,,,4153,3429,RLY
-9100PFFRNGN,Pfeffringen Rail Station,,,,,,,,,,,,3043,2463,RLY
-9100DANUBE,Danube HQ Rail Station,,,,,,,,,,,,-1522,-4036,RLY
-9100GDDEPOT,Grand Depot Rail Station,,,,,,,,,,,,3191,3608,RLY
-9100RSTAT,r.station Rail Station,,,,,,,,,,,,915,-1148,RLY
-9100FARYFLD,Fairyfield Rail Station,,,,,,,,,,,,-1253,-1145,RLY
-9100HROSHMA,Hiroshima Rail Station,,,,,,,,,,,,3488,-452,RLY
+9100OCHTRUP,Ochtrup Rail Station,,,,,,,,,,,,2354.25,3739,RLY
+9100KOTHAUS,Kothausen Rail Station,,,,,,,,,,,,1287.5,-1158,RLY
+9100CANDENC,Candenset Central Rail Station,,,,,,,,,,,,1289.1,-2355,RLY
+9100WISENAU,Wiesenau Rail Station,,,,,,,,,,,,2210,3258.5,RLY
+9100ECHNWLD,Eichenwalde Rail Station,,,,,,,,,,,,4466.5,1918,RLY
+9100MTNVILL,Mountain Village Rail Station,,,,,,,,,,,,184.5,-341.5,RLY
+9100ELMSWLD,Elmswalde Hbf Rail Station,,,,,,,,,,,,4200.85714285714,3378,RLY
+9100PFFRNGN,Pfeffringen Rail Station,,,,,,,,,,,,3071,2462.5,RLY
+9100DANUBE,Danube HQ Rail Station,,,,,,,,,,,,-1551.5,-4033,RLY
+9100GDDEPOT,Grand Depot Rail Station,,,,,,,,,,,,3228,3607,RLY
+9100RSTAT,r.station Rail Station,,,,,,,,,,,,914,-1148.5,RLY
+9100FARYFLD,Fairyfield Rail Station,,,,,,,,,,,,-1253.5,-1146,RLY
+9100HROSHMA,Hiroshima Rail Station,,,,,,,,,,,,3487.5,-452,RLY
 9400LAVTLAV,Lavender Valley Tram Stop,,Platform 1,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,,1987,87,MET
 9400LAVTVAL,Valiance Depot Tram Stop,,Platform 1,,Station Street,403,Lavender Valley,400,South,,,,1899,483,MET
 9400NBHTNBH,North Bohemia Tram Stop,,Platform A,North Bohemia Train Station,Bardo Road,206,North Bohemia,200,North,,,,2283,-2722,MET
@@ -90,3 +90,64 @@ ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,Local
 1020NYC0004N,Masaryk Rd / Golden St,,Northbound,,Masaryk Road,206,North Bohemia,200,North,,,N,2127,-2865,BCT
 1020NYC0004S,Masaryk Rd / Golden St,,Southbound,,Masaryk Road,206,North Bohemia,200,North,,,S,2142,-2855,BCT
 1020NYC0005B,Masaryk Rd / Suburbs Tram Stop,,,Suburbs Tram Stop,Masaryk Road,206,North Bohemia,200,North,,,,2004,-2904,BCT
+1010LV000V1,Valiance Showroom,,Stop A,,Valiance Way,403,Lavender Valley,400,South,,,N,1858,642,BCT
+9100ABYSSAL,Abyssal Chasm Rail Station,,,,,,,,,,,,4639,4563,RLY
+9100ALTHAUS,Althausen Rail Station,,,,,,,,,,,,-682,-5573,RLY
+9100BRGWISN,Burgwiesen Rail Station,,,,,,,,,,,,2752.66666666667,11309,RLY
+9100CANDENN,Candenset North Rail Station,,,,,,,,,,,,1208.33333333333,-2614.5,RLY
+9100CNDYCVY,Candy Cavity Rail Station,,,,,,,,,,,,-5026,-3511,RLY
+9100CHERRYG,Cherry Grove Rail Station,,,,,,,,,,,,-844.75,5947,RLY
+9100CLIFFWT,Cliffwatch Rail Station,,,,,,,,,,,,-540,-4189,RLY
+9100CLOVERV,Cloverville Rail Station,,,,,,,,,,,,863.5,5687,RLY
+9100COTTA,Cotta-Coah Rail Station,,,,,,,,,,,,2453,-4049,RLY
+9100FEUBERG,Feuerberg Rail Station,,,,,,,,,,,,416,-3989.25,RLY
+9100FEUDORF,Feuerdorf Rail Station,,,,,,,,,,,,145.5,-4663,RLY
+9100FICHEIM,Fichtenheim Rail Station,,,,,,,,,,,,1675.5,6878.5,RLY
+9100FORLORN,Forlorn Hollows Rail Station,,,,,,,,,,,,6800,5707.66666666667,RLY
+9100FKUSHMA,Fukushima Rail Station,,,,,,,,,,,,880.5,-1923,RLY
+9100GOWYN,GoWyn Depot Rail Station,,,,,,,,,,,,1954,-2144,RLY
+9100HOHNFLD,Hohenfeld Rail Station,,,,,,,,,,,,-64,-7313,RLY
+9100HOHNCST,Hohenstein Castle Rail Station,,,,,,,,,,,,-1414,-7101,RLY
+9100HOHNSTN,Hohenstein Rail Station,,,,,,,,,,,,-1420,-7157,RLY
+9100KRABACH,Krähenbach Rail Station,,,,,,,,,,,,2987,9455,RLY
+9100LAFRESE,La Fraineuse Rail Station,,,,,,,,,,,,3878,-1068,RLY
+9100MARKSTA,Markstadt Rail Station,,,,,,,,,,,,-1420,-7608.5,RLY
+9100MTUBERS,Mount Übersehen Rail Station,,,,,,,,,,,,-984,-8048,RLY
+9100MUHLENF,Mühlenfeld Rail Station,,,,,,,,,,,,3033.66666666667,9762.33333333333,RLY
+9100GUNDREM,Neu-Gundremmingen Rail Station,,,,,,,,,,,,2354,654,RLY
+9100NEUSATW,Neusatz West Rail Station,,,,,,,,,,,,3502.33333333333,-7215.66666666667,RLY
+9100NEUSTAH,Neustahl Hbf Rail Station,,,,,,,,,,,,-5692,-6598.5,RLY
+9100NOMANST,No Man's Track Rail Station,,,,,,,,,,,,-3151.5,-7098.5,RLY
+9100NORDEND,Nordende Rail Station,,,,,,,,,,,,-847.363636363636,-7735.63636363636,RLY
+9100NECROPL,Nécropole Rail Station,,,,,,,,,,,,3452,-1068,RLY
+9100ORIGINI,Origin Island Rail Station,,,,,,,,,,,,2753.2,12238,RLY
+9100OTTERLD,Otterland Rail Station,,,,,,,,,,,,-1354,-2576,RLY
+9100OUTLAWR,Outlaw Ridge Rail Station,,,,,,,,,,,,-2620.5,-8412.5,RLY
+9100PIONEER,Pioneer's End Rail Station,,,,,,,,,,,,-3950,-5386,RLY
+9100QUARTZA,Quartzacia Rail Station,,,,,,,,,,,,-1320,-2984,RLY
+9100ROYERE,Royère-Ville Rail Station,,,,,,,,,,,,5051,-849,RLY
+9100SALZZOO,Salzingen Zoo Rail Station,,,,,,,,,,,,2194,2040,RLY
+9100SAVHIGH,Savannah Heights Rail Station,,,,,,,,,,,,4363.5,2833.5,RLY
+9100SLUDGE,Sludgepoint Rail Station,,,,,,,,,,,,-1575,-3090,RLY
+9100SUNSETD,Sunset Desert Rail Station,,,,,,,,,,,,-3193.5,-4606.5,RLY
+9100TEATOWN,Teatown Rail Station,,,,,,,,,,,,755,-6001,RLY
+9100TORCSTL,Torcastle Rail Station,,,,,,,,,,,,-1317.66666666667,-6198.33333333333,RLY
+9100TOXICCV,Toxic Caves Rail Station,,,,,,,,,,,,-2440,-4271,RLY
+91003FNTAIN,Troisfontaines Rail Station,,,,,,,,,,,,4205,-1068,RLY
+9100TUMBLEW,Tumbleweed Flats Rail Station,,,,,,,,,,,,-2503.5,-6729.5,RLY
+9100TYNDRUM,Tyndrum Rail Station,,,,,,,,,,,,23.5,-5306,RLY
+9100UNTRBRG,Unterbergen Rail Station,,,,,,,,,,,,1511,-7042,RLY
+9100VSTKPNG,Västköping Rail Station,,,,,,,,,,,,3630,-3484,RLY
+9100WSRSTEN,Wasserstein Rail Station,,,,,,,,,,,,2043,7308,RLY
+9100WSNFELD,Weisenfeld Rail Station,,,,,,,,,,,,2927,10762,RLY
+9100WISENAL,Wiesental Rail Station,,,,,,,,,,,,704.565217391304,-5307.82608695652,RLY
+9100WNTRFEL,Winterfell Rail Station,,,,,,,,,,,,2411.5,8921,RLY
+9100UBERBRG,Überbergen Rail Station,,,,,,,,,,,,827,-7042,RLY
+1010LV000V2,Valiance Showroom,,Stop B,,Valiance Way,403,Lavender Valley,400,South,,,N,1858,623,BCT
+1010LV000P1,Lavender Park,,Northbound,,Spawn Road,403,Lavender Valley,400,South,,,N,1981,-260,BCT
+1010LV000P2,Lavender Park,,Southbound,,Spawn Road,403,Lavender Valley,400,South,,,S,1973,-217,BCT
+1010LV000F1,The Forest,,Northbound,,Spawn Road,403,Lavender Valley,400,South,,,N,1976,-509,BCT
+1010LV000F2,The Forest,,Southbound,,Spawn Road,403,Lavender Valley,400,South,,,S,1968,-487,BCT
+1010LV000S2,Lavender Valley Train Station,,Stop S2,Lavender Valley Train Station,Salzingen Road,403,Lavender Valley,400,South,,,S,2022,136,BCT
+1010LV000S3,Lavender Valley Train Station,,Stop S3,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,N,1981,27,BCT
+1010LV000S4,Lavender Valley Train Station,,Stop S3,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1972,44,BCT
