@@ -151,3 +151,5 @@ ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,Local
 1010LV000S2,Lavender Valley Train Station,,Stop S2,Lavender Valley Train Station,Salzingen Road,403,Lavender Valley,400,South,,,S,2022,136,BCT
 1010LV000S3,Lavender Valley Train Station,,Stop S3,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,N,1981,27,BCT
 1010LV000S4,Lavender Valley Train Station,,Stop S3,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1972,44,BCT
+91002DSPRSD,Two Cities Dispersed Rail Station,,,,,,,,,,,,-4107,-3411,RLY
+9100SERENAO,La Serena Observatory Rail Station,,,,,,,,,,,,-3041,-3637,RLY
