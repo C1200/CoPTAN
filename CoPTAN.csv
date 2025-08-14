@@ -45,7 +45,7 @@ ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,Local
 9100HOHNRED,Hohenried Rail Station,,,,,,,,,,,,1135.75,2830.5,RLY
 9100PRIPYAT,Pripyat Rail Station,,,,,,,,,,,,-1354,-2126.5,RLY
 9100CANDENS,Candenset South Rail Station,,,,,,,,,,,,1525,-2087,RLY
-9100STHILLS,South Hills Rail Station,,,,,,,,,,,,285.5,152,RLY
+9100STHILLS,South Hills Village Rail Station,,,,,,,,,,,,285.5,152,RLY
 9100BRGSTTN,Bergstetten Rail Station,,,,,,,,,,,,4466.5,584.5,RLY
 9100ECHNBRG,Eichenberg Rail Station,,,,,,,,,,,,2206.5,4817,RLY
 9100HIPPOST,Hippostetten Rail Station,,,,,,,,,,,,1643,6094.5,RLY
@@ -153,3 +153,6 @@ ATCOCode,CommonName,ShortCommonName,Indicator,Landmark,Street,LocalityCode,Local
 1010LV000S4,Lavender Valley Train Station,,Stop S3,Lavender Valley Train Station,Station Street,403,Lavender Valley,400,South,,,S,1972,44,BCT
 91002DSPRSD,Two Cities Dispersed Rail Station,,,,,,,,,,,,-4107,-3411,RLY
 9100SERENAO,La Serena Observatory Rail Station,,,,,,,,,,,,-3041,-3637,RLY
+9100STHILLC,South Hills Central Rail Station,,,,,,,,,,,,150.75,358.75,RLY
+9100SLVRCRS,Silverpine Crossing Rail Station,,,,,,,,,,,,-427,-514,RLY
+9100SLVRSTH,Silverfall South Rail Station,,,,,,,,,,,,-457,-1039.5,RLY
